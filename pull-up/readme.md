@@ -83,11 +83,15 @@ This folder contains **only the logic for pull-ups**, making it modular and easy
 
 ## 📥 Download (EXE)
 
-A standalone Windows executable is available in the Releases section of the main repository.
+If you don’t want to run the project using Python, you can download the pre-built Windows executable.
 
 💡 Python is not required to run the EXE.
 
-<p align="center"> <a href="https://github.com/durareApp/desktop/releases"> <img src="https://img.shields.io/badge/Download-EXE-black?style=for-the-badge&logo=windows"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/durareApp/desktop/releases/download/pull-up-v1.0/PullUp.exe">
+    <img src="https://img.shields.io/badge/Download-EXE-black?style=for-the-badge&logo=windows"/>
+  </a>
+</p>
 
 ---
 
@@ -100,6 +104,14 @@ A standalone Windows executable is available in the Releases section of the main
  - Antivirus warnings may appear (unsigned EXE)
 
  - Lighting conditions can affect accuracy
+
+---
+
+## 🔒 Privacy Notice
+
+- This application uses your webcam **only for real-time pose detection**
+- No images or videos are recorded or stored
+- No data is sent over the internet
 
 ---
 
