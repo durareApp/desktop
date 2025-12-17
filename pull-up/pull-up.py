@@ -18,7 +18,7 @@ bar_y = None
 start_time = None
 counting_started = False
 
-WINDOW_NAME = "Chin-Up Counter"
+WINDOW_NAME = "Pull-Up"
 cv2.namedWindow(WINDOW_NAME)
 
 while cap.isOpened():
@@ -75,7 +75,7 @@ while cap.isOpened():
                 state = "DOWN"
 
     cv2.putText(frame,
-                f"Chin-Ups: {counter}",
+                f"Pull-Ups: {counter}",
                 (30, 45),
                 cv2.FONT_HERSHEY_SIMPLEX,
                 1.2,
