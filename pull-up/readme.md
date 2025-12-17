@@ -56,9 +56,9 @@ This folder contains **only the logic for pull-ups**, making it modular and easy
 
 ## 📂 Files in This Folder
 
-pull-up/
-├── pull-up.py      # Pull-up / chin-up detection logic
-└── README.md       # This documentation
+    pull-up/
+    ├── pull-up.py      # Pull-up / chin-up detection logic
+    └── README.md       # This documentation
 
 ---
 
@@ -100,6 +100,8 @@ A standalone Windows executable is available in the Releases section of the main
  - Antivirus warnings may appear (unsigned EXE)
 
  - Lighting conditions can affect accuracy
+
+---
 
 ## 📜 License
 
