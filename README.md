@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/durareApp/.github/main/assets/durare-logo.png" width="90" alt="Durare Logo"/>
+  <img src="https://github.com/user-attachments/assets/13284f01-93cf-4524-a9f1-76cc79afab3e" width="90" alt="Durare Logo"/>
 </p>
 
 <h1 align="center">Durare – AI Workout Counter (Desktop)</h1>
